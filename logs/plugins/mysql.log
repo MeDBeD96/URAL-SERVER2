@@ -1,0 +1,290 @@
+[13:59:01] [WARNING] mysql_connect: no password specified
+[14:01:49] [WARNING] mysql_connect: no password specified
+[14:08:35] [WARNING] mysql_connect: no password specified
+[14:09:12] [WARNING] mysql_connect: no password specified
+[14:13:22] [WARNING] mysql_connect: no password specified
+[14:32:06] [WARNING] mysql_connect: no password specified
+[14:36:04] [WARNING] mysql_connect: no password specified
+[14:39:15] [WARNING] mysql_connect: no password specified
+[14:44:22] [WARNING] mysql_connect: no password specified
+[16:58:14] [WARNING] mysql_connect: no password specified
+[16:59:54] [WARNING] mysql_connect: no password specified
+[17:03:20] [WARNING] mysql_connect: no password specified
+[17:08:07] [WARNING] mysql_connect: no password specified
+[17:10:23] [WARNING] mysql_connect: no password specified
+[17:18:30] [WARNING] mysql_connect: no password specified
+[17:31:21] [WARNING] mysql_connect: no password specified
+[17:34:51] [WARNING] mysql_connect: no password specified
+[17:39:22] [WARNING] mysql_connect: no password specified
+[17:53:13] [WARNING] mysql_connect: no password specified
+[17:55:04] [WARNING] mysql_connect: no password specified
+[18:06:21] [WARNING] mysql_connect: no password specified
+[18:07:49] [WARNING] mysql_connect: no password specified
+[18:09:24] [WARNING] mysql_connect: no password specified
+[18:18:05] [WARNING] mysql_connect: no password specified
+[18:23:05] [WARNING] mysql_connect: no password specified
+[18:44:57] [WARNING] mysql_connect: no password specified
+[18:46:20] [WARNING] mysql_connect: no password specified
+[18:48:01] [WARNING] mysql_connect: no password specified
+[18:51:00] [WARNING] mysql_connect: no password specified
+[18:52:50] [WARNING] mysql_connect: no password specified
+[18:55:13] [WARNING] mysql_connect: no password specified
+[18:58:19] [WARNING] mysql_connect: no password specified
+[19:05:25] [WARNING] mysql_connect: no password specified
+[19:22:06] [WARNING] mysql_connect: no password specified
+[19:23:05] [WARNING] mysql_connect: no password specified
+[19:25:11] [WARNING] mysql_connect: no password specified
+[19:27:04] [WARNING] mysql_connect: no password specified
+[19:28:01] [WARNING] mysql_connect: no password specified
+[19:34:24] [WARNING] mysql_connect: no password specified
+[19:40:42] [WARNING] mysql_connect: no password specified
+[19:42:12] [WARNING] mysql_connect: no password specified
+[19:42:47] [WARNING] mysql_connect: no password specified
+[19:45:03] [WARNING] mysql_connect: no password specified
+[19:53:13] [WARNING] mysql_connect: no password specified
+[19:57:03] [WARNING] mysql_connect: no password specified
+[20:05:35] [WARNING] mysql_connect: no password specified
+[20:44:48] [WARNING] mysql_connect: no password specified
+[20:45:28] [WARNING] mysql_connect: no password specified
+[21:43:10] [WARNING] mysql_connect: no password specified
+[21:46:33] [WARNING] mysql_connect: no password specified
+[21:49:01] [WARNING] mysql_connect: no password specified
+[21:49:50] [WARNING] mysql_connect: no password specified
+[21:49:58] [WARNING] mysql_connect: no password specified
+[21:56:50] [WARNING] mysql_connect: no password specified
+[10:15:23] [WARNING] mysql_connect: no password specified
+[10:23:26] [WARNING] mysql_connect: no password specified
+[10:27:28] [WARNING] mysql_connect: no password specified
+[10:28:25] [WARNING] mysql_connect: no password specified
+[10:30:02] [WARNING] mysql_connect: no password specified
+[10:58:57] [WARNING] mysql_connect: no password specified
+[11:04:34] [WARNING] mysql_connect: no password specified
+[11:06:24] [WARNING] mysql_connect: no password specified
+[11:12:51] [WARNING] mysql_connect: no password specified
+[11:23:49] [WARNING] mysql_connect: no password specified
+[11:38:52] [WARNING] mysql_connect: no password specified
+[11:44:29] [WARNING] mysql_connect: no password specified
+[11:48:44] [WARNING] mysql_connect: no password specified
+[11:52:55] [WARNING] mysql_connect: no password specified
+[12:25:03] [WARNING] mysql_connect: no password specified
+[12:35:38] [WARNING] mysql_connect: no password specified
+[12:37:22] [WARNING] mysql_connect: no password specified
+[12:37:42] [WARNING] mysql_connect: no password specified
+[12:46:44] [WARNING] mysql_connect: no password specified
+[12:50:05] [WARNING] mysql_connect: no password specified
+[12:57:47] [WARNING] mysql_connect: no password specified
+[13:04:06] [WARNING] mysql_connect: no password specified
+[13:10:32] [WARNING] mysql_connect: no password specified
+[13:25:43] [WARNING] mysql_connect: no password specified
+[13:28:52] [WARNING] mysql_connect: no password specified
+[13:44:01] [WARNING] mysql_connect: no password specified
+[13:48:25] [WARNING] mysql_connect: no password specified
+[13:49:15] [WARNING] mysql_connect: no password specified
+[13:52:22] [WARNING] mysql_connect: no password specified
+[13:53:39] [WARNING] mysql_connect: no password specified
+[13:54:34] [WARNING] mysql_connect: no password specified
+[13:55:24] [WARNING] mysql_connect: no password specified
+[14:00:51] [WARNING] mysql_connect: no password specified
+[14:41:17] [WARNING] mysql_connect: no password specified
+[15:13:19] [WARNING] mysql_connect: no password specified
+[15:25:32] [WARNING] mysql_connect: no password specified
+[15:27:24] [WARNING] mysql_connect: no password specified
+[15:35:23] [WARNING] mysql_connect: no password specified
+[15:36:22] [WARNING] mysql_connect: no password specified
+[15:37:08] [WARNING] mysql_connect: no password specified
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:12] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:42] [WARNING] mysql_connect: no password specified
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:37:46] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:42:19] [WARNING] mysql_connect: no password specified
+[15:42:23] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:42:23] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:00] [WARNING] mysql_connect: no password specified
+[15:46:04] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_float: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:04] [ERROR] cache_get_value_name_int: invalid row index '14' (number of rows: '14')
+[15:46:22] [WARNING] mysql_connect: no password specified
+[15:58:36] [WARNING] mysql_connect: no password specified
+[16:04:27] [WARNING] mysql_connect: no password specified
+[16:17:07] [WARNING] mysql_connect: no password specified
+[16:21:24] [WARNING] mysql_connect: no password specified
+[16:23:36] [WARNING] mysql_connect: no password specified
+[16:27:58] [WARNING] mysql_connect: no password specified
+[16:32:30] [WARNING] mysql_connect: no password specified
+[16:44:48] [WARNING] mysql_connect: no password specified
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:10] [ERROR] cache_get_value_name_int: field 'HouseID' not found
+[16:45:31] [WARNING] mysql_connect: no password specified
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:45:35] [ERROR] cache_get_value_name_int: field 'VehiclesID' not found
+[16:46:52] [WARNING] mysql_connect: no password specified
+[16:52:29] [WARNING] mysql_connect: no password specified
+[17:13:39] [WARNING] mysql_connect: no password specified
+[17:15:49] [ERROR] error #1054 while executing query "UPDATE vehicles SET 		`Fuel` = 		37 WHERE 	`M,` = 			37": Unknown column 'M,' in 'where clause'
+[17:16:49] [WARNING] mysql_connect: no password specified
+[17:19:09] [WARNING] mysql_connect: no password specified
+[17:22:31] [WARNING] mysql_connect: no password specified
+[17:28:01] [WARNING] mysql_connect: no password specified
+[17:29:29] [WARNING] mysql_connect: no password specified
+[17:31:07] [WARNING] mysql_connect: no password specified
+[17:32:59] [WARNING] mysql_connect: no password specified
+[17:35:07] [WARNING] mysql_connect: no password specified
+[17:36:57] [WARNING] mysql_connect: no password specified
+[17:39:09] [WARNING] mysql_connect: no password specified
+[17:52:13] [WARNING] mysql_connect: no password specified
+[17:58:14] [WARNING] mysql_connect: no password specified
+[18:01:49] [WARNING] mysql_connect: no password specified
+[18:05:02] [WARNING] mysql_connect: no password specified
+[18:11:45] [WARNING] mysql_connect: no password specified
+[18:12:56] [ERROR] error #1136 while executing query "INSERT INTO `vehicles` (`VehicleID`, `Add`, `Model`, `VPosX`, `VPosY`, `VPosZ`, `VZa`, `Color1`, `Color2`, `Owner`, `Price`, `Buy`, `Lock`, `Fuel`, `VHP`) VALUES ('40', '1', '0.000000', '-2105.674560', '-2266.927001', '30.528079', '1134155618', '4', 'Angel Pine', '65', '100', '50', '0', '1000.0')": Column count doesn't match value count at row 1
+[18:14:12] [WARNING] mysql_connect: no password specified
+[18:21:13] [WARNING] mysql_connect: no password specified
+[18:28:44] [WARNING] mysql_connect: no password specified
+[18:33:51] [WARNING] mysql_connect: no password specified
+[18:43:50] [WARNING] mysql_connect: no password specified
+[18:44:04] [WARNING] mysql_connect: no password specified
+[18:44:18] [WARNING] mysql_connect: no password specified
+[18:58:28] [WARNING] mysql_connect: no password specified
+[19:06:30] [WARNING] mysql_connect: no password specified
